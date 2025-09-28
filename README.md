@@ -28,8 +28,7 @@ Le recueil est structuré en **7 chapitres** cohérents, chacun suivant une tram
 
 ## 🚀 Rendus attendus
 - 📑 **Recueil PDF** complet et sourcé.  
-- 🖼️ **Figures** (Talos, Héron, Pascaline/Leibniz, Babbage/Lovelace, Boole, Gödel, Turing, Shannon, AlexNet, GAN, Transformer, AlphaGo, biais/énergie, scénarios).  
-- 🖥️ (Optionnel) **Slides** synthétiques (15).
+- 🖥️ **Slides** synthétiques (15).
 - 🌐 (Optionnel) **Timeline** interactive.  
 
 ---
